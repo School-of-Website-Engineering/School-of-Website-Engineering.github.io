@@ -1,1 +1,1 @@
-# mason369.github.io
+# school-of-website-engineering.github.io
